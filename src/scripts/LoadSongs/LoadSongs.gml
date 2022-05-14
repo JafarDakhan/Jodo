@@ -5,7 +5,7 @@ function LoadSongs(){
 	var _dir = argument[0];
 	var _songs = [];
 	
-	var _name = file_find_first(_dir + "*.ogg", fa_directory);
+	var _name = file_find_first(_dir + "*.ogg", fileI);
 	
 	if(_name == ""){
 		_songs[0] = "";	
