@@ -1,0 +1,2 @@
+
+CleanSongStream(global.song);

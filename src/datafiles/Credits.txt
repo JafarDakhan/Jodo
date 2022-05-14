@@ -1,0 +1,19 @@
+
+Developed by : @Jafar_Dakhan
+--
+Tools used:
+Made using: GameMaker studio 2 by YoYo Games.
+UI: Aseprite.
+SFX: FL_Studio
+--
+Font used: 
+Monogram by @vmenezio (datagoblin)
+--
+Made for The_Tool_Jam 2
+-- 
+
+Special thanks to @leonlenclosnet for hosting the jam.
+--
+
+Thanks for trying the app. (;
+

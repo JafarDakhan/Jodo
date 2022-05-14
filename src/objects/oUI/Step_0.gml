@@ -1,0 +1,2 @@
+
+uiElementsXPos = oTime.timeStrPosX - uiElementsXPosBuf;
