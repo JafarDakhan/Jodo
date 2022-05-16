@@ -1,7 +1,7 @@
 
 # Jodo
 
-"simple" workspace utility, Made for [#TheToolJam2](https://itch.io/jam/the-tool-jam-2)
+simple productivity app, Made for [#TheToolJam2](https://itch.io/jam/the-tool-jam-2)
 
 
 ![pic](https://img.itch.zone/aW1nLzg5MjMyMzAucG5n/original/MseQ9P.png)
