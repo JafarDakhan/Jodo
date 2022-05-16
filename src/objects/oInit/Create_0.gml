@@ -13,7 +13,7 @@ randomize();
 #macro log show_debug_message
 #macro cam_pos camera_set_view_pos
 
-#macro fileI fa_directory
+#macro fileI 0
 
 // Change the GUI scaling 
 var _vx = camera_get_view_width(view_camera[0]);
