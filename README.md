@@ -50,7 +50,7 @@ ____
 ![scrn4](https://img.itch.zone/aW1hZ2UvMTUyOTc2My84OTIzMTM5LnBuZw==/original/TUunMy.png)
 ---
 ## License
-Code, UI, and SFX are licensed under the 
+Code is licensed under the 
 [MIT](https://choosealicense.com/licenses/mit/)
 license.
 
