@@ -11,7 +11,7 @@ simple productivity app, Made for [#TheToolJam2](https://itch.io/jam/the-tool-ja
 
 - Add limitless amount of todos.
 - Saving system.
-- Fast. In other words, You don't have to wait 10 seconds each time you open the app.
+- Fast.
 - Upload and play music with a built-in music player.
 - Customizable (change caret style, background color, text color, etc..).
 - Also, it has a frog cursor.
@@ -35,7 +35,6 @@ ____
 - Create multiple todo lists. 
 - Add tags to certain tasks.
 - More customization.
-- A scripting language
 
 ![gif](https://img.itch.zone/aW1nLzg5MjM4ODguZ2lm/original/NJf1Em.gif)
 
